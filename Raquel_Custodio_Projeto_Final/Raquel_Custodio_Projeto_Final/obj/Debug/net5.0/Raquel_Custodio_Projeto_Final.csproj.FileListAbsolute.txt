@@ -1,0 +1,16 @@
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/bin/Debug/net5.0/Raquel_Custodio_Projeto_Final
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/bin/Debug/net5.0/Raquel_Custodio_Projeto_Final.deps.json
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/bin/Debug/net5.0/Raquel_Custodio_Projeto_Final.runtimeconfig.json
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/bin/Debug/net5.0/Raquel_Custodio_Projeto_Final.runtimeconfig.dev.json
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/bin/Debug/net5.0/Raquel_Custodio_Projeto_Final.dll
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/bin/Debug/net5.0/Raquel_Custodio_Projeto_Final.pdb
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.csproj.AssemblyReference.cache
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.AssemblyInfoInputs.cache
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.AssemblyInfo.cs
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.csproj.CoreCompileInputs.cache
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.dll
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/refint/Raquel_Custodio_Projeto_Final.dll
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.pdb
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/Raquel_Custodio_Projeto_Final.genruntimeconfig.cache
+/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/obj/Debug/net5.0/ref/Raquel_Custodio_Projeto_Final.dll

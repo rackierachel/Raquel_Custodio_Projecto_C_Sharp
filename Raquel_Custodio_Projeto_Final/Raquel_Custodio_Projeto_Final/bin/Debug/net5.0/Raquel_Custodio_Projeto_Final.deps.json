@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Raquel_Custodio_Projeto_Final/1.0.0": {
+        "runtime": {
+          "Raquel_Custodio_Projeto_Final.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Raquel_Custodio_Projeto_Final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

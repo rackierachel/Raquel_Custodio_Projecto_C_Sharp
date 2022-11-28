@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNQlyRgq1V2hhFucovceyhaMPVAU+KXQcbGJJ5apwYh4AZTSjwDPik/me6fk7s+Sm/qJybqlizn9nkKEIF9IZw==",
+  "success": true,
+  "projectFilePath": "/Users/rackie/Desktop/PROGRAMAÇÃO INFORMÁTICA/C#/Exercicios/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final/Raquel_Custodio_Projeto_Final.csproj",
+  "expectedPackageFiles": [
+    "/Users/rackie/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/rackie/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/rackie/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
